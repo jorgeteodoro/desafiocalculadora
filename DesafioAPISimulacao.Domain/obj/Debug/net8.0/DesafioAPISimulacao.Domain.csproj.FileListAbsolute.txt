@@ -1,0 +1,12 @@
+C:\projetos\Desafio\DesafioAPISimulacao.Domain\bin\Debug\net8.0\DesafioAPISimulacao.Domain.deps.json
+C:\projetos\Desafio\DesafioAPISimulacao.Domain\bin\Debug\net8.0\DesafioAPISimulacao.Domain.dll
+C:\projetos\Desafio\DesafioAPISimulacao.Domain\bin\Debug\net8.0\DesafioAPISimulacao.Domain.pdb
+C:\projetos\Desafio\DesafioAPISimulacao.Domain\obj\Debug\net8.0\DesafioAPISimulacao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Desafio\DesafioAPISimulacao.Domain\obj\Debug\net8.0\DesafioAPISimulacao.Domain.AssemblyInfoInputs.cache
+C:\projetos\Desafio\DesafioAPISimulacao.Domain\obj\Debug\net8.0\DesafioAPISimulacao.Domain.AssemblyInfo.cs
+C:\projetos\Desafio\DesafioAPISimulacao.Domain\obj\Debug\net8.0\DesafioAPISimulacao.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\Desafio\DesafioAPISimulacao.Domain\obj\Debug\net8.0\DesafioAPISimulacao.Domain.dll
+C:\projetos\Desafio\DesafioAPISimulacao.Domain\obj\Debug\net8.0\refint\DesafioAPISimulacao.Domain.dll
+C:\projetos\Desafio\DesafioAPISimulacao.Domain\obj\Debug\net8.0\DesafioAPISimulacao.Domain.pdb
+C:\projetos\Desafio\DesafioAPISimulacao.Domain\obj\Debug\net8.0\ref\DesafioAPISimulacao.Domain.dll
+C:\projetos\Desafio\DesafioAPISimulacao.Domain\obj\Debug\net8.0\DesafioAPISimulacao.Domain.sourcelink.json
