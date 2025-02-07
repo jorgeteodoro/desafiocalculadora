@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\Desafio\\DesafioAPISimulacao.Core\\DesafioAPISimulacao.Core.csproj",
+      "projectUniqueName": "C:\\projetos\\desafiocalculadora\\DesafioAPISimulacao.Core\\DesafioAPISimulacao.Core.csproj",
       "projectName": "DesafioAPISimulacao.Core",
-      "projectPath": "C:\\projetos\\Desafio\\DesafioAPISimulacao.Core\\DesafioAPISimulacao.Core.csproj",
+      "projectPath": "C:\\projetos\\desafiocalculadora\\DesafioAPISimulacao.Core\\DesafioAPISimulacao.Core.csproj",
       "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\Desafio\\DesafioAPISimulacao.Core\\obj\\",
+      "outputPath": "C:\\projetos\\desafiocalculadora\\DesafioAPISimulacao.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
