@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "DesafioAPISimulacao.API.Controllers.ProposalController",
+    "Method": "Insert",
+    "RelativePath": "api/loans/simulate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "proposalEntity",
+        "Type": "DesafioAPISimulacao.Domain.Entities.ProposalEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DesafioAPISimulacao.Core.Models.ResultRequest",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

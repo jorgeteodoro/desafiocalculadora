@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DesafioAPISimulacao.API.props" />
+</Project>
